@@ -51,7 +51,7 @@ Anime-Recommendation-System-Using-Python-Building-a-Content-Based-Filtering-Mode
 │   └── Anime-Recommendation-System-Using-Python-Building-a-Content-Based-Filtering-Model.ipynb
 ├── src/                     # Folder untuk skrip Python
 │   └── Anime-Recommendation-System-Using-Python-Building-a-Content-Based-Filtering-Model.py
-├── images/                  # Folder untuk menyimpan visualisasi dan grafik
+├── image/                  # Folder untuk menyimpan visualisasi
 ├── README.md                # Dokumentasi proyek ini
 └── requirements.txt         # Daftar dependensi
 ```
